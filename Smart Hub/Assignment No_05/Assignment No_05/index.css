@@ -1,0 +1,28 @@
+body{
+    background-color: orange;
+    margin:0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    margin-top: 360px;
+}
+.btn{
+    border: 1px solid ;
+    background-: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin:10px;
+    transition: relative;
+}
+.btn1,.btn2{
+    color: #3498b3;
+}
+.btn3,.btn4{
+    color:#3498b3;
+}
+.btn5,.btn6{
+    color: #3498b3;
+

@@ -1,0 +1,24 @@
+body{
+background-color: darksalmon;
+}
+
+h1{background-color: black;
+    color:white;
+     font-family:monospace;}
+p{
+    color:midnightblue;
+    font-family: serif;
+    font-size: 150%;
+    border: 20px;
+    margin: 60pxs;
+    background-color: blanchedalmond;
+}
+h1{
+    text-shadow: green;
+}
+ol{
+    font-size: 100%;
+    font-family: sans-serif;
+    background-color: lightcyan;
+}
+
